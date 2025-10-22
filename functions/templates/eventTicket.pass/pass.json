@@ -3,9 +3,9 @@
   "passTypeIdentifier": "pass.vn.edu.irttc.fifty-year",
   "serialNumber": "123456",
   "teamIdentifier": "C2239MGQ69",
-  "organizationName": "VGU Career Services",
-  "description": "Entrance ticket for Career Fair and Industrial Exploration Day 2025",
-  "logoText": "CFIED 2025",
+  "organizationName": "Vietnamese-German University",
+  "description": "Entrance ticket for Fostering Green Science and Innovation Conference 2025",
+  "logoText": "50th Anniversary",
   "eventTicket": {
     "headerFields": [
       {
@@ -14,7 +14,7 @@
         "isRelative": true,
         "dateStyle": "PKDateStyleShort",
         "timeStyle": "PKDateStyleShort",
-        "value": "2025-10-23T00:00+07:00"
+        "value": "2025-10-23T08:00+07:00"
       }
     ],
     "secondaryFields": [],
@@ -33,7 +33,7 @@
       {
         "key": "Event venue",
         "label": "Event Venue",
-        "value": "Conventional Hall, VGU Campus"
+        "value": "VGU Campus, Ring road 4, Quarter 4, Thoi Hoa Ward, Ho Chi Minh City"
       },
       {
         "key": "facebook",
@@ -46,6 +46,11 @@
         "label": "Official Website",
         "value": "https://conference.vgu.edu.vn",
         "dataDetectorType": "PKDataDetectorTypeLink"
+      },
+      {
+        "key": "contact",
+        "label": "Contact",
+        "value": "Ms. Vo Phan Hoang Trang\nPhone: +84-(0)274-2220990, Ext. 70104\nEmail: trang.vph@vgu.edu.vn"
       }
     ]
   },
@@ -56,28 +61,29 @@
       "messageEncoding": "iso-8859-1"
     }
   ],
-  "backgroundColor": "rgb(1,63,32)",
-  "foregroundColor": "rgb(174,209,64)",
-  "labelColor": "rgb(227,234,152)",
+  "backgroundColor": "rgb(25,100,70)",
+  "foregroundColor": "rgb(255,255,255)",
+  "labelColor": "rgb(200,230,200)",
   "semantics": {
     "silenceRequested": true,
     "relevantDates": [
       {
-        "startDate": "2025-05-14T08:30:00+07:00",
-        "endDate": "2025-05-14T13:30:00+07:00"
+        "startDate": "2025-10-23T08:30:00+07:00",
+        "endDate": "2025-10-24T17:00:00+07:00"
       }
     ],
-    "additionalTicketAttributes": "Use this ticket to identify yourself during the event.",
+    "additionalTicketAttributes": "Use this ticket to identify yourself during the conference. This conference celebrates 50 years of diplomatic relations between Vietnam and Germany.",
     "eventType": "PKEventTypeConvention",
-    "eventName": "Career Fair and Industrial Exploration Day 2025",
-    "venueDoorsOpenDate": "2025-05-14T08:00:00+07:00",
-    "eventStartDate": "2025-05-14T08:30:00+07:00",
-    "eventEndDate": "2025-05-14T13:30:00+07:00",
-    "venueName": "Conventional Hall",
+    "eventName": "Fostering Green Science and Innovation: 50 Years Vietnam-Germany Diplomatic Relations",
+    "venueDoorsOpenDate": "2025-10-23T08:00:00+07:00",
+    "eventStartDate": "2025-10-23T08:30:00+07:00",
+    "eventEndDate": "2025-10-24T17:00:00+07:00",
+    "venueName": "VGU Campus",
     "venueLocation": {
-      "latitude": 11.0572,
-      "longitude": 106.6442
+      "latitude": 10.8697,
+      "longitude": 106.7761
     },
-    "entranceDescription": "The entrance is located at the main gate of VGU Campus (near the bridge). Show this ticket at the reception desk for more information."
+    "entranceDescription": "Show this ticket at the reception desk upon arrival at VGU Campus. The conference brings together leading voices from academia, industry and policy to explore sustainable scientific and technological collaboration."
   }
 }
+
