@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "passTypeIdentifier": "pass.vn.edu.vgu.careerfair.cfied25",
+  "passTypeIdentifier": "pass.vn.edu.irttc.fifty-year",
   "serialNumber": "123456",
   "teamIdentifier": "C2239MGQ69",
   "organizationName": "VGU Career Services",
@@ -14,7 +14,7 @@
         "isRelative": true,
         "dateStyle": "PKDateStyleShort",
         "timeStyle": "PKDateStyleShort",
-        "value": "2025-05-14T08:00+07:00"
+        "value": "2025-10-23T00:00+07:00"
       }
     ],
     "secondaryFields": [],
@@ -44,7 +44,7 @@
       {
         "key": "website",
         "label": "Official Website",
-        "value": "https://careerfair.vgu.edu.vn",
+        "value": "https://conference.vgu.edu.vn",
         "dataDetectorType": "PKDataDetectorTypeLink"
       }
     ]
